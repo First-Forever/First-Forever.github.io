@@ -4,3 +4,4 @@ I am enjoying studying IBI1 in person again.
 I am happy that I can push my repo from Visual Studio Code to GitHub.
 Let's enjoy the world of Python!
 The life is short, and we study Python!
+Bravo!
