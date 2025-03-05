@@ -2,4 +2,8 @@ remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: 'Being a Rubbish in bioinformatics'
-description: '''I am studying some basic programming language like c++, Python and R. Some techniques like statistical analyzing, machine learning are also my interests. I am aiming to be a rubbish in this field!  $$\int_{-\infty}^{\infty} \frac{1}{\sqrt{2\pi\sigma^2}} e^{-\frac{(x-\mu)^2}{2\sigma^2}} \,dx = 1$$'''
+description: |
+I am studying some basic programming language like c++, Python and R. 
+Some techniques like statistical analyzing, machine learning are also my interests. 
+I am aiming to be a rubbish in this field!  
+<p>$$\int_{-\infty}^{\infty} \frac{1}{\sqrt{2\pi\sigma^2}} e^{-\frac{(x-\mu)^2}{2\sigma^2}} \,dx = 1$$
